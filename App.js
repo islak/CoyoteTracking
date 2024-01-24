@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Report a Coyote Sighting</Text>
+      <Text>Report a Coyote sighting</Text>
       <MapView
         style={styles.map}
         onPress={handleMapPress}
